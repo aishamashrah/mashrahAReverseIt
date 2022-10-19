@@ -6,12 +6,17 @@
 
 using System;
 namespace Reverseit
+
 {
     class program
+    
     {
         static void Main(string [] args)
         {
-            // string reverse = Console.ReadLine();
+            bool playAgain = true;
+            while (playAgain) {
+                   bool converted = true;
+              while (converted){
             Console.WriteLine("enter your number");
             string Originalnumber = Console.ReadLine();
             int userinput = Convert.ToInt32(Originalnumber);
@@ -32,11 +37,36 @@ namespace Reverseit
              //  Console.ReadLine(userinput);
 
              Console.WriteLine($"reverse number is {reverse}");
-        }
-    }
-}
-
+        
     
+        Console.WriteLine("Would you like to play again? Yes or No");
+        string rePlay = Console.ReadLine();
+
+        if(rePlay == "YES" || rePlay == "Yes" || rePlay == "yes"){
+            playAgain = true;
+            converted = false;
+            Console.Clear();
+            Console.WriteLine( "play " );
+            Console.WriteLine( " " );
+            break;
+        } 
+        if(rePlay == "NO" || rePlay == "no"){
+            playAgain = false;
+            converted = false;
+            Console.WriteLine(" ");
+            Console.WriteLine( "thank you " );
+            break;
+        }
+        else{
+            converted = true;
+            Console.WriteLine(" ");
+            Console.WriteLine( " invaild,try again ");
+            Console.WriteLine(" ");
+        }
+    } 
+}        }
+    }
+}   
         
 
 
