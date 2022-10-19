@@ -1,0 +1,15 @@
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/bin/Debug/net6.0/mashrahAReverseIt
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/bin/Debug/net6.0/mashrahAReverseIt.deps.json
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/bin/Debug/net6.0/mashrahAReverseIt.runtimeconfig.json
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/bin/Debug/net6.0/mashrahAReverseIt.dll
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/bin/Debug/net6.0/mashrahAReverseIt.pdb
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/obj/Debug/net6.0/mashrahAReverseIt.csproj.AssemblyReference.cache
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/obj/Debug/net6.0/mashrahAReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/obj/Debug/net6.0/mashrahAReverseIt.AssemblyInfoInputs.cache
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/obj/Debug/net6.0/mashrahAReverseIt.AssemblyInfo.cs
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/obj/Debug/net6.0/mashrahAReverseIt.csproj.CoreCompileInputs.cache
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/obj/Debug/net6.0/mashrahAReverseIt.dll
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/obj/Debug/net6.0/refint/mashrahAReverseIt.dll
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/obj/Debug/net6.0/mashrahAReverseIt.pdb
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/obj/Debug/net6.0/mashrahAReverseIt.genruntimeconfig.cache
+/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/obj/Debug/net6.0/ref/mashrahAReverseIt.dll
