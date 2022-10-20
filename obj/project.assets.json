@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/aishamashrah/.nuget/packages/": {}
+    "/Users/arelymartinez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/mashrahAReverseIt.csproj",
+      "projectUniqueName": "/Users/arelymartinez/Desktop/GitRepository/mashrahAReverseIt/mashrahAReverseIt.csproj",
       "projectName": "mashrahAReverseIt",
-      "projectPath": "/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/mashrahAReverseIt.csproj",
-      "packagesPath": "/Users/aishamashrah/.nuget/packages/",
-      "outputPath": "/Users/aishamashrah/Desktop/homework/mashrahAReverseIt/obj/",
+      "projectPath": "/Users/arelymartinez/Desktop/GitRepository/mashrahAReverseIt/mashrahAReverseIt.csproj",
+      "packagesPath": "/Users/arelymartinez/.nuget/packages/",
+      "outputPath": "/Users/arelymartinez/Desktop/GitRepository/mashrahAReverseIt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/aishamashrah/.nuget/NuGet/NuGet.Config"
+        "/Users/arelymartinez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
